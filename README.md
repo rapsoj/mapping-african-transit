@@ -1,3 +1,3 @@
 # Mapping African Public Transit
 
-![project card](project-card.png)
+<img src="project-card.png" width="400">
