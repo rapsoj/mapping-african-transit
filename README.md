@@ -2,7 +2,10 @@
 
 <img src="project-card.png" width="400">
 
-### Useful links:
+### Team Meetings:
+[When2Meet](https://www.when2meet.com/?24215131-k65UD)
+
+### Useful Links:
 
 [(PDF) Pathways to integrating paratransit and formal public transport: Case studies from Tshwane, South Africa](https://www.researchgate.net/publication/374210097_Pathways_to_integrating_paratransit_and_formal_public_transport_Case_studies_from_Tshwane_South_Africa)
 
