@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+express_mombasa_nairobi,1,1,1,1,1,1,1,20210920,20410920
+commuter_nairobi_ngong,1,1,1,1,1,0,0,20210920,20410920
+leisure_nairobi_suswa,0,0,0,0,1,1,1,20210920,20410920

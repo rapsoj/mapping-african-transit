@@ -1,0 +1,31 @@
+Kampala Transit Analysis Ideas
+
+Metrics:
+- By city, neighbourhood, and income levels
+- Affordability:
+	Ratio of fare to median income
+- Employment Access:
+	Average travel time by transit to major buildings/downtown core
+- Transit Access:
+	Average travel time by walking to transit stop or route
+	Percent population that uses transit
+- Health Access:
+	Average travel time to health facilities
+- Education Access:
+	Average travel time to primary/secondary/universities
+- Safety:
+	Traffic-related deaths per capita per year
+- Commerce Access:
+	Average travel time to markets
+- Efficiency:
+	Travel time difference between desire line actual routes, weighted by number of trips
+	Difference between origin/end points and stops, weighted by number of trips
+
+
+Recommendations:
+- Which routes are missed by existing private transit?
+	o How many trips would this entail? (e.g. recommendation for public routes)
+
+
+Justification:
+- Compare economic efficiency of car vs. public transit oriented cities

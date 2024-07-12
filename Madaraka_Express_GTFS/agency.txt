@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+kenya_railways,Kenya Railways,https://krc.co.ke/,Africa/Nairobi,en,0709907000,https://krc.co.ke/train-fares/,info@krc.co.ke

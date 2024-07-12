@@ -1,0 +1,13 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+trip_001,madaraka_express,express_mombasa_nairobi,Nairobi TO Mombasa,,,,nairobi_mombasa,1
+trip_002,madaraka_express,express_mombasa_nairobi,Nairobi TO Mombasa,,,,nairobi_mombasa,1
+trip_003,madaraka_express,express_mombasa_nairobi,Nairobi TO Mombasa,,,,nairobi_mombasa,1
+trip_004,madaraka_express,express_mombasa_nairobi,Mombasa TO Nairobi,,,,mombasa_nairobi,1
+trip_005,madaraka_express,express_mombasa_nairobi,Mombasa TO Nairobi,,,,mombasa_nairobi,1
+trip_006,madaraka_express,express_mombasa_nairobi,Mombasa TO Nairobi,,,,mombasa_nairobi,1
+trip_007,madaraka_express,commuter_nairobi_ngong,Nairobi TO Ngong,,,,nairobi_ngong,1
+trip_008,madaraka_express,commuter_nairobi_ngong,Nairobi TO Ngong,,,,nairobi_ngong,1
+trip_009,madaraka_express,commuter_nairobi_ngong,Ngong TO Nairobi,,,,ngong_nairobi,1
+trip_010,madaraka_express,commuter_nairobi_ngong,Ngong TO Nairobi,,,,ngong_nairobi,1
+trip_011,madaraka_express,leisure_nairobi_suswa,Nairobi TO Suswa,,,,nairobi_suswa,1
+trip_012,madaraka_express,leisure_nairobi_suswa,Suswa TO Nairobi,,,,suswa_nairobi,1

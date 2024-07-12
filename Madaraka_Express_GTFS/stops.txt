@@ -1,0 +1,16 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+stop_01,,SGR Terminus Nairobi,,-1.3542767489109666, 36.89858321253163,stop_01,,,,,1
+stop_02,,SGR Athi River Station,,-1.4676917896814643, 36.99055742270356,stop_02,,,,,1
+stop_03,,SGR Emali Station,,-2.084139548579886, 37.472739223648695,stop_03,,,,,1
+stop_04,,SGR Kibwezi Station,,-2.406374651966081, 37.93641736688656,stop_04,,,,,1
+stop_05,,SGR Mtito Andei Station,,-2.69013315498847, 38.170703124559445,stop_05,,,,,1
+stop_06,,SGR Voi Station,,-3.4026934242071722, 38.57548555656156,stop_06,,,,,1
+stop_07,,SGR Miasenyi Station,,-3.6572282775520657, 38.921722080390516,stop_07,,,,,1
+stop_08,,SGR Mariakani Station,,-3.8599035016576435, 39.46054399573376,stop_08,,,,,1
+stop_09,,SGR Terminus Mombasa,,-4.021782150071116, 39.57912213806448,stop_09,,,,,1
+stop_10,,SGR Rongai Station,,-1.4132780520179704, 36.74335676082881,stop_10,,,,,1
+stop_11,,SGR Ngong Station,,-1.3507232039829038, 36.68101976687957,stop_11,,,,,1
+stop_12,,SGR Nachu Station,,-1.2535869309778631, 36.551997424549754,stop_12,,,,,1
+stop_13,,SGR Maai Mahiu Station,,-1.0590100659306356, 36.53526499190059,stop_13,,,,,1
+stop_14,,SGR Naivasha Station,,-1.0463921013423512, 36.48194271161553,stop_14,,,,,1
+stop_15,,SGR Suswa Station,,-1.0451412767738113, 36.321441995713286,stop_15,,,,,1
